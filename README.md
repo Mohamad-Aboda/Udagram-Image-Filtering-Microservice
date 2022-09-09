@@ -35,7 +35,7 @@ Follow the process described in the course to `eb init` a new application and `e
 
 # The Endpoint is accessable through
 
-### Try change the query parameter to list your image!
+### Try changing the query parameter to list your image!
 
 ```
 http://image-filter-starter-code-dev-1.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://cdn.pixabay.com/photo/2016/02/28/12/55/boy-1226964__340.jpg
